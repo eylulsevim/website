@@ -4,4 +4,6 @@ This is a really awesome website
 
 Updates made on master on Github before rebase
 
-On demo branch
+## purpose
+
+This file is just a readme file.
